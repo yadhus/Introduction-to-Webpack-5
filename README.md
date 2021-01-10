@@ -1,9 +1,13 @@
 # Introduction-to-Webpack-5
 
-### For running the webpack dev server
+## Links
+1. https://dev.to/yadhus/introduction-to-webpack-5-5fhm
+2. https://yadhus.medium.com/introduction-to-webpack-5-27b1ed350a8
+
+## For running the webpack dev server
 * npm run start
 
-### To generate the build files
+## To generate the build files
 * npm run build
 * check the dist folder
 
